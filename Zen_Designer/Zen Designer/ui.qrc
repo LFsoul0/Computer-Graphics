@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background.png</file>
+        <file>image/logo.png</file>
+        <file>image/mask.png</file>
+        <file>image/point/AttachPoint.png</file>
+        <file>image/point/ControlPointNormal.png</file>
+        <file>image/point/ControlPointSelected.png</file>
+        <file>image/particle/Petal1.png</file>
+        <file>image/particle/Petal2.png</file>
+        <file>image/particle/Petal3.png</file>
+    </qresource>
+</RCC>

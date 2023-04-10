@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shader/blend.frag</file>
+        <file>shader/blend.vert</file>
+        <file>shader/object.frag</file>
+        <file>shader/object.vert</file>
+        <file>shader/skybox.frag</file>
+        <file>shader/skybox.vert</file>
+        <file>shader/singleColor.frag</file>
+        <file>shader/shadow.frag</file>
+        <file>shader/shadow.vert</file>
+        <file>shader/particle.frag</file>
+        <file>shader/particle.vert</file>
+    </qresource>
+</RCC>

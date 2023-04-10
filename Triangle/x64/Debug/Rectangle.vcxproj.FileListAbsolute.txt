@@ -1,0 +1,2 @@
+E:\CG\Rectangle\x64\Debug\Rectangle.exe
+E:\CG\Triangle\x64\Debug\Triangle.exe

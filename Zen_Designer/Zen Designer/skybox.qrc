@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/skybox/day/back.png</file>
+        <file>image/skybox/day/bottom.png</file>
+        <file>image/skybox/day/front.png</file>
+        <file>image/skybox/day/left.png</file>
+        <file>image/skybox/day/right.png</file>
+        <file>image/skybox/day/top.png</file>
+        <file>image/skybox/night/back.png</file>
+        <file>image/skybox/night/bottom.png</file>
+        <file>image/skybox/night/front.png</file>
+        <file>image/skybox/night/left.png</file>
+        <file>image/skybox/night/right.png</file>
+        <file>image/skybox/night/top.png</file>
+        <file>image/skybox/sunrise/back.png</file>
+        <file>image/skybox/sunrise/bottom.png</file>
+        <file>image/skybox/sunrise/front.png</file>
+        <file>image/skybox/sunrise/left.png</file>
+        <file>image/skybox/sunrise/right.png</file>
+        <file>image/skybox/sunrise/top.png</file>
+        <file>image/skybox/sunset/back.png</file>
+        <file>image/skybox/sunset/bottom.png</file>
+        <file>image/skybox/sunset/front.png</file>
+        <file>image/skybox/sunset/left.png</file>
+        <file>image/skybox/sunset/right.png</file>
+        <file>image/skybox/sunset/top.png</file>
+    </qresource>
+</RCC>

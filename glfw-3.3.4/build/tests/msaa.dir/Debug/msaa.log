@@ -1,0 +1,6 @@
+﻿  Building Custom Rule E:/CG/glfw-3.3.4/tests/CMakeLists.txt
+  msaa.c
+  getopt.c
+  glad_gl.c
+  正在生成代码...
+  msaa.vcxproj -> E:\CG\glfw-3.3.4\build\tests\Debug\msaa.exe

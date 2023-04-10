@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/material/rock1_diffuse.png</file>
+        <file>image/material/rock1_normal.png</file>
+        <file>image/material/rock2_diffuse.png</file>
+        <file>image/material/rock2_normal.png</file>
+        <file>image/material/wood1_diffuse.png</file>
+        <file>image/material/wood1_normal.png</file>
+        <file>image/material/wood2_diffuse.png</file>
+        <file>image/material/wood2_normal.png</file>
+        <file>image/material/china1_diffuse.png</file>
+        <file>image/material/china2_diffuse.png</file>
+        <file>image/material/rock1_spec.png</file>
+        <file>image/material/rock2_spec.png</file>
+        <file>image/material/ground_diffuse.png</file>
+        <file>image/material/ground_normal.png</file>
+        <file>image/material/ground_spec.png</file>
+    </qresource>
+</RCC>

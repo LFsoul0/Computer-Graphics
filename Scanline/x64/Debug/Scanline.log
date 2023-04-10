@@ -1,0 +1,61 @@
+﻿  main.cpp
+E:\CG\Scanline\Shader.h(54,40): warning C4101: “e”: 未引用的局部变量
+E:\CG\Scanline\Font.h(83,37): warning C4838: 从“FT_Pos”转换到“GLuint”需要收缩转换
+E:\CG\Scanline\main.cpp(219,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(219,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(220,57): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(220,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(223,52): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(223,35): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(224,54): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(224,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(227,71): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(227,58): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(227,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(228,72): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(228,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(228,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(262,54): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(262,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(263,55): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(263,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(266,52): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(266,35): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(267,54): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(267,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(270,70): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(270,57): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(270,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(271,71): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(271,58): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(271,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\CG\Scanline\main.cpp(405,74): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+E:\CG\Scanline\main.cpp(405,54): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+E:\CG\Scanline\main.cpp(408,81): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+E:\CG\Scanline\main.cpp(408,58): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+freetype.lib(autofit.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(autofit.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftbase.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(ftbase.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftbitmap.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(ftbitmap.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftinit.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(ftinit.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(bdf.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(bdf.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(cff.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(cff.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(type1cid.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(type1cid.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftgzip.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(ftgzip.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftlzw.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(ftlzw.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(pcf.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(pcf.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(pfr.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(pfr.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(psaux.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(psaux.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(pshinter.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(pshinter.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(psmodule.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(psmodule.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(raster.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(raster.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(sfnt.obj) : warning LNK4099: 未找到 PDB“”(使用“freetype.lib(sfnt.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(smooth.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(smooth.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(sdf.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(sdf.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(truetype.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(truetype.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(type1.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(type1.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(type42.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(type42.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(winfnt.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(winfnt.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftdebug.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(ftdebug.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+freetype.lib(ftsystem.obj) : warning LNK4099: 未找到 PDB“freetype.pdb”(使用“freetype.lib(ftsystem.obj)”或在“E:\CG\Scanline\x64\Debug\freetype.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Scanline.vcxproj -> E:\CG\Scanline\x64\Debug\Scanline.exe

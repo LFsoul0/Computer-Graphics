@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>audio/BGM/Forest_Birds.wav</file>
+        <file>audio/BGM/Night_Crickets.wav</file>
+        <file>audio/BGM/Wind_Calm.wav</file>
+        <file>audio/BGM/Wind_Forest.wav</file>
+        <file>audio/SFX/button.wav</file>
+    </qresource>
+</RCC>
